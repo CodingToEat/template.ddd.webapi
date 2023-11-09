@@ -1,4 +1,4 @@
-# Template Domain Driven Design .DotNet Web Api
+# .NET Web API Template with Domain Driven Design
 
 ## Description
 
